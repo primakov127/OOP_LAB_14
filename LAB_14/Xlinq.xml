@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <Name Name="Leha">
+    <Age>21</Age>
+    <Money>600</Money>
+  </Name>
+  <Name Name="Serega">
+    <Age>22</Age>
+    <Money>1000</Money>
+  </Name>
+  <Name Name="Sanya">
+    <Age>20</Age>
+    <Money>300</Money>
+  </Name>
+</people>
